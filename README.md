@@ -3,7 +3,7 @@
 
   
  I am **Developer** 
- Currently studying: **React.js** and **JQuery**.
+ Currently studying: **React.js** and **Vue Js**.
  <i>⁠"Muchas gracias...SSIIIIIII"</i>.
 
 <br>
@@ -62,6 +62,14 @@
       height="40"
     />
   </a>
+   <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+      alt="Git"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.figma.com/" target="_blank">
     <img
       src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png"
@@ -84,7 +92,7 @@
 
 ### against me 🌎:
 
-- 💻 See my portfolio site <a href="https://paulosilas99.github.io/meuportfolio/">Portifolio</a>
+- 💻 See my portfolio site <a href="https://paulosilas99.github.io/meuportfolio/](https://frontend-six-blue.vercel.app/">Portifolio</a>
 - 💼 Connect with me on the <a href="https://www.linkedin.com/in/paulo-silas-sodré-fonseca/">LinkedIn</a>.
 - 📷 Follow-me in <a href="https://www.instagram.com/paulosilas.sf/">Instagram</a>.
 
