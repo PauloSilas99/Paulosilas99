@@ -11,14 +11,7 @@
 ### in short, that's what I know
 
 <p align="left">
-  <a href="https://www.javascript.com/" target="_blank">
-    <img
-      src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png"
-      alt="Javascript"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
@@ -34,6 +27,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
       alt="HTML"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img
+      src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png"
+      alt="Javascript"
       width="40"
       height="40"
     />
