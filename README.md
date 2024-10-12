@@ -2,7 +2,7 @@
 ### Olá, me chamo Paulo Silas!
 
  Atualmente estou estudando: <br>
- **Desenvolvimento Web e Mobile** com foco em React. <br>
+ **Desenvolvimento Web e Mobile** com foco em **React**. <br>
  **Análise de Dados** através das tecnologias **Python** e **Power BI**.  <br>
 
 ### Skills
@@ -28,10 +28,10 @@
   
 <hr/>
 
-### Connect with me 🌎:
+### Conect-se comigo 🌎:
 
-- 💻 See my portfolio site <a href="https://paulosilas99.github.io/meuportfolio/](https://frontend-six-blue.vercel.app/">Portifolio</a>
-- 💼 Connect with me on the <a href="https://www.linkedin.com/in/paulo-silas-sodré-fonseca/">LinkedIn</a>.
-- 📷 Follow-me in <a href="https://www.instagram.com/paulosilas.sf/">Instagram</a>.
+- 💻 Acesse o meu <a href="https://paulosilas99.github.io/meuportfolio/](https://frontend-six-blue.vercel.app/">Portfólio</a>
+- 💼 Entre no <a href="https://www.linkedin.com/in/paulo-silas-sodré-fonseca/">LinkedIn</a>.
+- 📷 Me siga no <a href="https://www.instagram.com/paulosilas.sf/">Instagram</a>.
 
 ![](https://komarev.com/ghpvc/?username=paulosilas99&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
