@@ -6,7 +6,7 @@
 
 ### Skills
 
-<div align="center">
+<div align="left">
     <a href="https://www.figma.com/" target="_blank">
       <img
         src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png"
