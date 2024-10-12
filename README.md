@@ -6,7 +6,7 @@
 
 ### Skills
 
-<div style="display:flex, justify-content: center">
+<div style="display:flex, justify-content: center, align-item: center">
   <img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" alt="Figma" width="40" height="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"  height="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" align="center" />
@@ -20,8 +20,8 @@
 </div>
 
 <hr/>
-  <div align="center">
-   
+
+  <div align="center"> 
 <!-- <div>
       <a href="https://github.com/paulosilas99">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosilas99&line_height=55&show_icons=true&theme=dark&hide_border=true" />
@@ -29,11 +29,10 @@
     </div> -->
    
     <div>
-        <a href="https://github.com/paulosilas99">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&size_weight=1.0&count_weight=1.0" />
-        </a>
     </div>
   </div>
+  
 <hr/>
 
 ### Connect with me 🌎:
