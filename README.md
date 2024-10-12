@@ -96,14 +96,14 @@
 </div>
 <hr/>
   <div align="center">
-    <div>
+<!-- <div>
       <a href="https://github.com/paulosilas99">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosilas99&line_height=55&show_icons=true&theme=dark&hide_border=true" />
       </a>
-    </div>
+    </div> -->
     <div>
         <a href="https://github.com/paulosilas99">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&line_height=40&show_icons=true&theme=dark&hide_border=true&layout=pie" />            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&size_weight=0.7&count_weight=0.7" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&size_weight=1.0&count_weight=1.0" />
         </a>
     </div>
   </div>
