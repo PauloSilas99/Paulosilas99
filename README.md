@@ -1,7 +1,9 @@
 
 ### Olá, me chamo Paulo Silas!
 
- Atualmente estou estudando **Desenvolvimento Web e Mobile** com foco em React, **Análise de Dados** através das tecnologias **Python e Power BI**.
+ Atualmente estou estudando:
+ **Desenvolvimento Web e Mobile** com foco em React
+ **Análise de Dados** através das tecnologias **Python e Power BI**.
  <br>
 
 ### Skills
