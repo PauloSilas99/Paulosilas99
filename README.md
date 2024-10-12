@@ -3,13 +3,14 @@
 
   
  I am **Developer** 
- Currently studying: **React.js**, **TypeScript**, **Python**, **Docker** and **SQL**.
+ Currently studying **Web Development** and **Data Analysis**.
+ <br>
  I am studying the most modern technologies to be an excellent professional.
 <br>
 
 ### Technical Skills
 
-<p align="left">
+<div align="left">
   <a href="https://www.figma.com/" target="_blank">
     <img
       src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png"
@@ -92,16 +93,17 @@
       height="40"
     />
   </a>
-</p>
+</div>
 <hr/>
-  <p align="center">
+  <div align="center">
     <a href="https://github.com/paulosilas99">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosilas99&line_height=55&show_icons=true&theme=dark&hide_border=true" />
     </a>
     <a href="https://github.com/paulosilas99">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&line_height=40&show_icons=true&theme=dark&hide_border=true&layout=pie" />
+<!--       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&line_height=40&show_icons=true&theme=dark&hide_border=true&layout=pie" /> -->
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&size_weight=0.5&count_weight=0.5" />
     </a>
-  </p>
+  </div>
 <hr/>
 
 ### Connect with me 🌎:
