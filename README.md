@@ -21,13 +21,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" align="center" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" align="center" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" align="center" />
+ <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" align="center" />
 </div>
 
 <hr/>
 
-  <div align="center"> 
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&size_weight=1.0&count_weight=1.0" />
-  </div>
+  <div align="center">
+
+  <!-- Gráfico de Linguagens -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosilas99&layout=compact&theme=tokyonight&langs_count=8&hide_progress=true" 
+    alt="Linguagens mais usadas" 
+    height="200"
+  />
+
+  <!-- Estatísticas do GitHub -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=paulosilas99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    alt="Estatísticas do GitHub" 
+    height="200"
+  />
+
+</div>
   
 <hr/>
 
